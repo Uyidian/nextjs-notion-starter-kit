@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '漫漫Design',
+  name: 'Design Portfolio',
   domain: 'https://www.notion.so/Design-Portfolio-52dad5956fb641a5809338c2e6cd0775',
   author: '漫漫Design',
 
