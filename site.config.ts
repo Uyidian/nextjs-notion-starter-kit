@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '52dad5956fb641a5809338c2e6cd0775',
+  rootNotionPageId: 'fff3eede65be409292f20f9353a5f44e',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Design Portfolio',
-  domain: 'https://www.notion.so/Design-Portfolio-52dad5956fb641a5809338c2e6cd0775',
+  domain: 'https://www.notion.so/Design-Portfolio-fff3eede65be409292f20f9353a5f44e',
   author: '漫漫Design',
 
   // open graph metadata (optional)
