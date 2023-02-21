@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Design Portfolio',
   domain: 'https://daffodil-sovereign-30d.notion.site/Design-Portfolio-fff3eede65be409292f20f9353a5f44e',
-  author: '漫漫Design',
+  author: '陶得坤',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
