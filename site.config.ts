@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Design Portfolio',
-  domain: 'https://www.notion.so/Design-Portfolio-fff3eede65be409292f20f9353a5f44e',
+  domain: 'https://daffodil-sovereign-30d.notion.site/Design-Portfolio-fff3eede65be409292f20f9353a5f44e',
   author: '漫漫Design',
 
   // open graph metadata (optional)
